@@ -12,8 +12,13 @@ npm run dev
 
 ```
 
-#### Login: username - admin, password - admin2023
 
+### How does this work
+
+![](demo.gif)
+
+
+#### Login: username - admin, password - admin2023
 
 ##### Contact with me: 
 [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
